@@ -1,0 +1,17 @@
+{
+	
+	"String1": "//android.widget.TextView[@index='1']",
+	"String2": "//android.widget.TextView[@index='5']",
+	"String3": "//android.widget.LinearLayout",
+	"String4": "//android.widget.Button[@text='0']",
+	"String5": "//android.widget.Button[@text='1']",
+	"String6": "//android.widget.Button[@text='2']",
+	"String7": "//android.widget.Button[@text='3']",
+	"String8": "com.touchboarder.android.api.demos:id/addNewButton",
+	
+	"String9": "//android.widget.TextView[@text='App']",
+	"String10": "android:id/text1",
+	"String11": "//android.widget.TextView[@index='5']",
+	"String12": "com.touchboarder.android.api.demos:id/toggle_show_title"
+	
+}
